@@ -40,6 +40,16 @@ modules in local installation or CPAN.
 well as CSV/TSV/JSON/YAML files) using SQL.
 
 
+**Sah schemas**
+
+<pm:Sah::Schemas::TableData>
+
+
+**Tie**
+
+<pm:Tie::Array::TableData>
+
+
 **Miscelaneous**
 
 <pm:Perinci::Sub::Gen::AccessTable> accepts TableData module.
